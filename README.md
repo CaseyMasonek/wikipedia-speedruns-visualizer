@@ -6,5 +6,5 @@
 4) Run
 - python3 main.py
 - cd app
-- pnpm rin dev
+- pnpm run dev
 5) Go to http://localhost:5173
